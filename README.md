@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python development and project such as games, websites and discord bots
 - 🌱 I’m currently learning advanced Java development
 - 💞️ I’m looking to collaborate on Python projects that I mentioned above
-- 📫 How to reach me: check my website: https://nikitundrik.github.io/index.html
+- 📫 How to reach me: my Discord: Local_Kings#9714
 
 <!---
 nikitundrik/nikitundrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
