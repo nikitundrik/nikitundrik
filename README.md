@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @nikitundrik
-- 👀 I’m interested in Python development and project such as games, websites and discord bots
-- 🌱 I’m currently learning advanced Java development
-- 💞️ I’m looking to collaborate on Python projects that I mentioned above
-- 📫 How to reach me: my Discord: Local_Kings#9714
+# Enoch
 
-<!---
-nikitundrik/nikitundrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+> an experienced Android (Java), Django and Godot developer
+> most known for his work at Brickverse
+> Discord is Enoch#2087, e-mail is local_kings@mailfence.com
+> read more at https://nikitundrik.github.io/
+```
