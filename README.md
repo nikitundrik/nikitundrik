@@ -14,3 +14,4 @@ OK, so. Hi guys, my name is Nick, I do Godot (also a bit of Django). Currently w
 ![james](https://github.com/nikitundrik/nikitundrik/assets/49902468/8f58811a-8caf-4850-a3b0-8b24d5cb7086)
 ![Без названия (6)](https://github.com/nikitundrik/nikitundrik/assets/49902468/4e627827-4099-47c1-a85a-29cff2bc2aad)
 ![catgirlaile](https://github.com/nikitundrik/nikitundrik/assets/49902468/c262768c-9efa-4251-8da2-65bae7ee4a23)
+BTW, I can change to picrels at my will. Godot gave me this power
