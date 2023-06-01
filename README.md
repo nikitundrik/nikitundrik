@@ -14,4 +14,12 @@ OK, so. Hi guys, my name is Nick, I do Godot (also a bit of Django). Currently w
 ![james](https://github.com/nikitundrik/nikitundrik/assets/49902468/8f58811a-8caf-4850-a3b0-8b24d5cb7086)
 ![Без названия (6)](https://github.com/nikitundrik/nikitundrik/assets/49902468/4e627827-4099-47c1-a85a-29cff2bc2aad)
 ![catgirlaile](https://github.com/nikitundrik/nikitundrik/assets/49902468/c262768c-9efa-4251-8da2-65bae7ee4a23)
+![femlocke](https://github.com/nikitundrik/nikitundrik/assets/49902468/e16471e7-61d6-4e4a-b123-17553cb8b228)
+![LockeI](https://github.com/nikitundrik/nikitundrik/assets/49902468/0d68d58e-3fcd-47eb-b0e2-89a9aa9654ee)
+![aigis](https://github.com/nikitundrik/nikitundrik/assets/49902468/b13b69e3-9658-4b95-9676-f61b18c69d9a)
+![canderous](https://github.com/nikitundrik/nikitundrik/assets/49902468/8bc228c6-fb4c-443f-803f-3974473f7de8)
+
+And, of course, the legendary
+<img width="87" alt="googlepfp" src="https://github.com/nikitundrik/nikitundrik/assets/49902468/cf203a71-e695-44e8-9cde-72c37724c3ab">
+
 BTW, I can change to picrels at my will. Godot gave me this power
